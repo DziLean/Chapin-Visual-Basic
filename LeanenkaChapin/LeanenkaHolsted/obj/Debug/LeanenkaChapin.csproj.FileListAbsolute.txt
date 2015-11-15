@@ -1,0 +1,18 @@
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\bin\Debug\LeanenkaHolsted.exe.config
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\bin\Debug\LeanenkaHolsted.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\bin\Debug\LeanenkaHolsted.pdb
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\obj\Debug\LeanenkaChapin.csprojResolveAssemblyReference.cache
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.Form1.resources
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.Properties.Resources.resources
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\obj\Debug\LeanenkaChapin.csproj.GenerateResource.Cache
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.pdb
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\bin\Debug\LeanenkaChapin.exe.config
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\bin\Debug\LeanenkaChapin.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\bin\Debug\LeanenkaChapin.pdb
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.Form1.resources
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Debug\LeanenkaChapin.Properties.Resources.resources
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Debug\LeanenkaChapin.csproj.GenerateResource.Cache
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Debug\LeanenkaChapin.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Debug\LeanenkaChapin.pdb
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Debug\LeanenkaChapin.csprojResolveAssemblyReference.cache

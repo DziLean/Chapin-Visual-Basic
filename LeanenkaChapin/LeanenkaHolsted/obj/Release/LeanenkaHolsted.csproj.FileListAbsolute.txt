@@ -1,0 +1,12 @@
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\bin\Release\LeanenkaHolsted.exe.config
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\bin\Release\LeanenkaHolsted.exe
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\bin\Release\LeanenkaHolsted.pdb
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Release\LeanenkaHolsted.Form1.resources
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Release\LeanenkaHolsted.Properties.Resources.resources
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Release\LeanenkaHolsted.csproj.GenerateResource.Cache
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Release\LeanenkaHolsted.exe
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Release\LeanenkaHolsted.pdb
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Release\LeanenkaHolsted.csprojResolveAssemblyReference.cache
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\bin\Release\LeanenkaHolsted.exe.config
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\obj\Release\LeanenkaHolsted.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted - Copy\LeanenkaHolsted\obj\Release\LeanenkaHolsted.pdb

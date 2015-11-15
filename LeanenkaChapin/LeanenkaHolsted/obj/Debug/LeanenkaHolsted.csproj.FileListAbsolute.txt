@@ -1,0 +1,8 @@
+c:\users\dzianisl\documents\visual studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\bin\Debug\LeanenkaHolsted.exe.config
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\bin\Debug\LeanenkaHolsted.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\bin\Debug\LeanenkaHolsted.pdb
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.Form1.resources
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.Properties.Resources.resources
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.csproj.GenerateResource.Cache
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaHolsted\LeanenkaHolsted\obj\Debug\LeanenkaHolsted.pdb

@@ -1,0 +1,9 @@
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Release\LeanenkaHolsted.Form1.resources
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Release\LeanenkaChapin.csproj.GenerateResource.Cache
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\bin\Release\LeanenkaChapin.exe.config
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\bin\Release\LeanenkaChapin.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\bin\Release\LeanenkaChapin.pdb
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Release\LeanenkaChapin.csprojResolveAssemblyReference.cache
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Release\LeanenkaChapin.Properties.Resources.resources
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Release\LeanenkaChapin.exe
+C:\Users\DzianisL\Documents\Visual Studio 2015\Projects\LeanenkaChapin\LeanenkaHolsted\obj\Release\LeanenkaChapin.pdb
